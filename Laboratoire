@@ -1,0 +1,10 @@
+public class Laboratoire
+{
+	private string Nomlabo;
+
+	public void operation2()
+	{
+
+	}
+
+}
