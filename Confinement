@@ -1,0 +1,13 @@
+public class Confinnement
+{
+	private int Période;
+
+	private Patient patient;
+
+	public void operation4()
+	{
+
+	}
+
+}
+
