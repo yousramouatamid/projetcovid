@@ -1,0 +1,25 @@
+public class Patient
+{
+	private string Nom;
+
+	private string Prénom;
+
+	private int Cin;
+
+	private string Etat;
+
+	private string Degré;
+
+	private Citoyen citoyen;
+
+	private Citoyen citoyen;
+
+	private Citoyen citoyen;
+
+	public void operation3()
+	{
+
+	}
+
+}
+
