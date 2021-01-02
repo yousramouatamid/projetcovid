@@ -1,0 +1,9 @@
+public class Hospitalisation
+{
+	private int Période;
+
+	private int Mode;
+
+	private Patient patient;
+
+}
