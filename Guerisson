@@ -1,0 +1,5 @@
+public class Guerisson
+{
+	private Citoyen citoyen;
+
+}
