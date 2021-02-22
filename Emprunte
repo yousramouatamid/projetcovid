@@ -1,0 +1,12 @@
+Public Class Emprunte
+{
+	Private int Date emprunte;
+
+	Private Emprunteure emprunteure;
+
+	Public void operation4()
+	{
+
+	}
+
+}
